@@ -32,3 +32,5 @@ Klo 20.17 keskeytin virtuaalikoneen asennuksen, sillä en ollut varma miten muis
 
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/89454122/213262661-816fc9c9-5fbb-41c7-9066-681469c73a37.png">
 
+Klo 20.21 totesin, että jatkan huomenna tämän tekemistä.
+
