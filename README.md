@@ -27,3 +27,8 @@ Suljin tehtävienhallinnasta koko virtualboxin ja aloitin asentamisen uudelleen.
 Klo 20.14 huomasin, että virtuaalikoneen asennusikkunaa ei saa säädettyä näytölle sopivaksi.
 
 Klo 20.17 keskeytin virtuaalikoneen asennuksen, sillä en ollut varma miten muistikapaasiteetti asetetaan niin, että oma koneeni ei tuhoudu virtuaalikoneen asennuksessa.
+
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/89454122/213262606-044e2b1e-df53-4c00-8c6b-7f5e294890c0.png">
+
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/89454122/213262661-816fc9c9-5fbb-41c7-9066-681469c73a37.png">
+
