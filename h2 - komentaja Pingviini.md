@@ -29,7 +29,9 @@ Klo 13.29:
 
 Klo 13.38:
 -Asensin kolme uutta komentoriviohjelmaa (Cmatrix, cowsay, sl)
+
 <img width="393" alt="image" src="https://user-images.githubusercontent.com/89454122/214030802-2c3fb95b-017d-46d1-ac4c-2514c8997623.png">
+
 Lähde: https://www.makeuseof.com/fun-linux-command-line-programs/
 
 Klo 13.43:
