@@ -43,7 +43,7 @@ Klo 13.47:
 - Tutustuin grep-komentoon käyttämällä komentoa "man grep"
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/89454122/214032381-c92433a0-b3db-4e27-9162-84aeeac7ca42.png">
 
-Grep-komento etsii haluttuja malleja tiedostoista, jolloin tiedoston hakua pystyy rajaamaan niin, että ei tarvitse näyttää kaikkia tiedostoja.
+Grep-komento etsii haluttuja malleja tiedostoista, jolloin tiedon hakua pystyy rajaamaan niin, että ei tarvitse näyttää kaikkia tiedostoja/tiedostossa olevia rivejä.
 Esimerkiksi: etsi tiettyä tiettyä tekstinpätkää
 
     $ grep "this" demo_file
@@ -51,3 +51,10 @@ Esimerkiksi: etsi tiettyä tiettyä tekstinpätkää
     Two lines above this line is empty.
     And this is the last line.
 
+Lähde: https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/
+
+## Summaus
+Ajan käyttö: klo 13.15 - 13.55
+Opittu käyttämään Linuxin peruskomentoja.
+
+Nimi: Joni Tirkkonen
