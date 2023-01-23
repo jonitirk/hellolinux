@@ -39,4 +39,14 @@ Klo 13.43:
 - FHS = File system hierarchy standard
 - lähde: https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
 
-    man grep
+Klo 13.47:
+- Tutustuin grep-komentoon käyttämällä komentoa "man grep"
+<img width="449" alt="image" src="https://user-images.githubusercontent.com/89454122/214032381-c92433a0-b3db-4e27-9162-84aeeac7ca42.png">
+
+Grep-komento etsii haluttuja malleja tiedostoista, jolloin tiedoston hakua pystyy rajaamaan niin, että ei tarvitse näyttää kaikkia tiedostoja.
+Esimerkiksi: etsi tiettyä tiettyä tekstinpätkää
+    $ grep "this" demo_file
+    this line is the 1st lower case line in this file.
+    Two lines above this line is empty.
+    And this is the last line.
+
