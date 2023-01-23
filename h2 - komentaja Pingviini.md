@@ -45,6 +45,7 @@ Klo 13.47:
 
 Grep-komento etsii haluttuja malleja tiedostoista, jolloin tiedoston hakua pystyy rajaamaan niin, että ei tarvitse näyttää kaikkia tiedostoja.
 Esimerkiksi: etsi tiettyä tiettyä tekstinpätkää
+
     $ grep "this" demo_file
     this line is the 1st lower case line in this file.
     Two lines above this line is empty.
