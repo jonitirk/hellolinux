@@ -24,6 +24,7 @@ Klo 13.29:
 <img width="410" alt="image" src="https://user-images.githubusercontent.com/89454122/214029014-86e5e328-18f8-455e-8a26-b0381f4979e8.png">
 
 <img width="410" alt="image" src="https://user-images.githubusercontent.com/89454122/214029560-301692aa-c666-44d1-8b16-528f7530fb60.png">
+
 -Järjestelmän nimi: VirtualBox, joka käyttää intelin 5:n generaation prosessoria. Muistia 3 gigaa.
 
 Klo 13.38:
