@@ -25,7 +25,7 @@ Klo 13.29:
 
 <img width="410" alt="image" src="https://user-images.githubusercontent.com/89454122/214029560-301692aa-c666-44d1-8b16-528f7530fb60.png">
 
--Järjestelmän nimi: VirtualBox, joka käyttää intelin 5:n generaation prosessoria. Muistia 3 gigaa.
+-Järjestelmän nimi: VirtualBox, joka käyttää intelin i5-prosessoria. Muistia 3 gigaa.
 
 Klo 13.38:
 -Asensin kolme uutta komentoriviohjelmaa (Cmatrix, cowsay, sl)
