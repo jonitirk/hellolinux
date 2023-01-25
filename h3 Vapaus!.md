@@ -30,10 +30,23 @@
 
     Lähde: Välimäki 2005: Rise of Open Source: 5 Open Source Licenses as Alternative Governance Mechanisms: 5.1.1 - 5.1.4 (sivu 113 - 121)
 
-## a) Kolmen ohjelman lisenssit.
+## a) Kolmen ohjelman lisenssit. (ke 25.10 klo 22.40 - 23.07)
+  - Cmatrix
+    - Käyttää lisenssiä: GNU GPL v3.
+    - Lähde: https://github.com/abishekvashok/cmatrix#license
+    - Tärkeimmät oikeusvaikutukset: vapaa lisenssi, jossa copyleft (edellyttää, että myös uudelleen jakelussa vapaus otettava huomioon).
+  - cowsay
+    - Käyttää lisenssiä: GNU GPL
+    - Lähde: https://github.com/avdi/cow/blob/master/public/cowsay-license.txt
+  - Inkscape
+    - Käyttää lisenssiä: GNU GPL v2.
+    - Lähde: https://inkscape.org/about/license/
 
+## b) Säännöllistä. Poimi tekstitiedostosta tietoa grep-komennolla käyttäen säännöllisiä lausekkeita (ke 25.10 klo 23.37 - 
 
-## b) Säännöllistä. Poimi tekstitiedostosta tietoa grep-komennolla käyttäen säännöllisiä lausekkeita
+  Etsitään kaikki nykyisen hakemiston ja sen alihakemistojen (valitsin -R) tiedostojen rivit, jotka alkavat merkkijonolla "foo"
+
+    $ grep "^foo" * -R     
 
 ## c) Pipe. Näytä esimerkki putkista (pipes).
 
