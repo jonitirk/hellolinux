@@ -42,11 +42,15 @@
     - Käyttää lisenssiä: GNU GPL v2.
     - Lähde: https://inkscape.org/about/license/
 
-## b) Säännöllistä. Poimi tekstitiedostosta tietoa grep-komennolla käyttäen säännöllisiä lausekkeita (ke 25.10 klo 23.37 - 
+## b) Säännöllistä. Poimi tekstitiedostosta tietoa grep-komennolla käyttäen säännöllisiä lausekkeita (ke 25.10 klo 23.37 - 23.45)
 
-  Etsitään kaikki nykyisen hakemiston ja sen alihakemistojen (valitsin -R) tiedostojen rivit, jotka alkavat merkkijonolla "foo"
+  Etsin kaikki nykyisen hakemiston ja sen alihakemistojen (valitsin -R) tiedostojen rivit, jotka alkavat merkkijonolla "foo"
 
     $ grep "^foo" * -R     
+    
+    <img width="250" alt="image" src="https://user-images.githubusercontent.com/89454122/214699456-d8d4fdf1-44b7-47dd-acd3-3bc128b3762e.png">
+
+    Lähde: https://www.linux.fi/wiki/Grep
 
 ## c) Pipe. Näytä esimerkki putkista (pipes).
 
