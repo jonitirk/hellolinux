@@ -4,7 +4,7 @@
 ## Laitteisto/ympäristö
 
 ### Host:
-  - Verkko: Haaga-Helian yksityinen verkko & kotiverkko, Elisa 5G 100M
+  - Verkko: Kotiverkko, Elisa 5G 100M WLAN
   - Tietokone: HP Pavillion -läppäri
   - Suoritin: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz   1.80 GHz
   - Asennettu RAM: 8,00 Gt (7,88 Gt käytettävissä)
@@ -30,7 +30,7 @@
 
     Lähde: Välimäki 2005: Rise of Open Source: 5 Open Source Licenses as Alternative Governance Mechanisms: 5.1.1 - 5.1.4 (sivu 113 - 121)
 
-## a) Kolmen ohjelman lisenssit. (ke 25.10 klo 22.40 - 23.07)
+## a) Kolmen ohjelman lisenssit. (ke 25.1 klo 22.40 - 23.07)
   - Cmatrix
     - Käyttää lisenssiä: GNU GPL v3.
     - Lähde: https://github.com/abishekvashok/cmatrix#license
@@ -42,7 +42,7 @@
     - Käyttää lisenssiä: GNU GPL v2.
     - Lähde: https://inkscape.org/about/license/
 
-## b) Säännöllistä. Poimi tekstitiedostosta tietoa grep-komennolla käyttäen säännöllisiä lausekkeita (ke 25.10 klo 23.37 - 23.45)
+## b) Säännöllistä. Poimi tekstitiedostosta tietoa grep-komennolla käyttäen säännöllisiä lausekkeita (ke 25.1 klo 23.37 - 23.45)
 
   Etsin kaikki nykyisen hakemiston ja sen alihakemistojen (valitsin -R) tiedostojen rivit, jotka alkavat merkkijonolla "foo"
 
@@ -53,9 +53,20 @@
 
 Lähde: https://www.linux.fi/wiki/Grep
 
-## c) Pipe. Näytä esimerkki putkista (pipes).
+## c) Pipe. Näytä esimerkki putkista (pipes). (ke 25.1 klo 23.55 - 00.04)
+
+  Listasin /etc kansiosta kaikki kansiot, jotka alkaa merkkijonolla "lib"
+  
+    $ ls | grep "lib"
+    
+ 
+ <img width="240" alt="image" src="https://user-images.githubusercontent.com/89454122/214702500-8400556c-8ba9-43cb-b6bd-15fe27d23cfd.png">
+
+Lähde: https://www.howtogeek.com/438882/how-to-use-pipes-on-linux/
 
 ## Summaus
+
+Tutustuin tässä tehtävässä erilaisiin lakiteksteihin ja määritelmiin lisensseistä, sekä vapaista ohjelmista. Otin selvää myös, mistä lisenssit löytyvät ja mitä lisenssitekstit tarkoittavat. Opettelin myös käyttämään grep-komentoa, sekä putkia Debianin terminaalissa. Itse tehtävien tekemiseen aikaa meni n. 1h 15min
 
 
 
