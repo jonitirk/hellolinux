@@ -21,21 +21,21 @@
     - Kaikki neljä määritelmää tulee täyttyä, jotta ohjelmisto voisi olla vapaa.
     - Vapaata ohjelmistoa voi käyttää kaupalliseen tarkoitukseen.
     - Ohjelmiston jälleenjakelussa, sekä sellaisenaan, että muokattuna voi olla joitain sääntöjä, kunhan ne eivät oleellisesti vaikeuta jakelua. Et voi esimerkiksi jakaa muokattua versiota kenenkään toisen nimissä. Toisin sanoen on käytävä ilmi, että muokattu ohjelmisto on sinun versiosi.
+    
     Lähde: https://www.gnu.org/philosophy/free-sw.html
    
-  - Rise of Open Source
-    - Open Source Initiative hyväksyy avoimen lähdekoodin lisensseiksi sellaiset, jotka täyttävät yllä mainitut vapaan ohjelmiston määritelmät.
+  - Rise of Open Source (n. 20min)
+    - Open Source Initiative hyväksyy avoimen lähdekoodin lisensseiksi sellaiset, jotka täyttävät yllä mainitut vapaan ohjelmiston määritelmät (FSF).
     - Vaikka jokin ohjelmisto olisikin vapaa ja omaisi avoimen lähdekoodin lisenssin, ohjelmiston alkuperäisellä tekijällä on kuitenkin ohjelmistosta tekijänoikeudet. Lisenssissä kerrottuja ehtoja noudatamalla, pidät huolen siitä, ettet riko tekijänoikeuksia, kun käytät, jaat eteenpäin, tai muokkaat ohjelmiston lähdekoodia.
+
     Lähde: Välimäki 2005: Rise of Open Source: 5 Open Source Licenses as Alternative Governance Mechanisms: 5.1.1 - 5.1.4 (sivu 113 - 121)
 
-## Kolmen ohjelman lisenssit.
-
-### a)
+## a) Kolmen ohjelman lisenssit.
 
 
-### b)
+## b) Säännöllistä. Poimi tekstitiedostosta tietoa grep-komennolla käyttäen säännöllisiä lausekkeita
 
-### c)
+## c) Pipe. Näytä esimerkki putkista (pipes).
 
 ## Summaus
 
