@@ -1,8 +1,7 @@
-# Laitteisto
 
+# h3 Vapaus!
 
-
-
+## Laitteisto
 
 
 ## Lue ja tiivistä
