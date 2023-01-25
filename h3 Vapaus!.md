@@ -48,9 +48,10 @@
 
     $ grep "^foo" * -R     
     
-    <img width="250" alt="image" src="https://user-images.githubusercontent.com/89454122/214699456-d8d4fdf1-44b7-47dd-acd3-3bc128b3762e.png">
 
-    Lähde: https://www.linux.fi/wiki/Grep
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/89454122/214699456-d8d4fdf1-44b7-47dd-acd3-3bc128b3762e.png">
+
+Lähde: https://www.linux.fi/wiki/Grep
 
 ## c) Pipe. Näytä esimerkki putkista (pipes).
 
