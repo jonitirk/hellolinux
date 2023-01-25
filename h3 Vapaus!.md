@@ -15,8 +15,9 @@
 
 
 ## Lue ja tiivistä
-  - FSF: FSF Free Software Definition
-    -
+  - FSF: Free Software Definition
+    - Tekstiä
+    - lisää
 
 ## Kolmen ohjelman lisenssit.
 
