@@ -24,3 +24,7 @@
 ### c)
 
 ## Summaus
+
+
+
+Raportin laatija: Joni Tirkkonen
