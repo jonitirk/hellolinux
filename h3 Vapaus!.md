@@ -66,7 +66,7 @@ Lähde: https://www.howtogeek.com/438882/how-to-use-pipes-on-linux/
 
 ## Summaus
 
-Tutustuin tässä tehtävässä erilaisiin lakiteksteihin ja määritelmiin lisensseistä, sekä vapaista ohjelmista. Otin selvää myös, mistä lisenssit löytyvät ja mitä lisenssitekstit tarkoittavat. Opettelin myös käyttämään grep-komentoa, sekä putkia Debianin terminaalissa. Itse tehtävien tekemiseen aikaa meni n. 1h 15min
+Tutustuin tässä tehtävässä erilaisiin lakiteksteihin ja määritelmiin lisensseistä, sekä vapaiden ohjelmien määritelmiin. Otin selvää, mistä lisenssit löytyvät ja mitä lisenssitekstit tarkoittavat. Opettelin myös käyttämään grep-komentoa, sekä putkia Debianin terminaalissa. Itse tehtävien tekemiseen aikaa meni n. 1h 15min
 
 
 
